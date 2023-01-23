@@ -1,4 +1,4 @@
 # Beginner
 # Devops-Tools
 ## Road Map for a Devops
-![Tux, the Linux mascot](C:\Users\P RAGHAVENDRA\Downloads)
+![Tux, the Linux mascot](/Beginner-/Devops-roadMap.png)
