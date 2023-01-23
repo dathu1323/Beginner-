@@ -6,10 +6,7 @@
 ![Tux, the Linux mascot](/Beginner-/IMAGES/devops-roadmap2.png)
 ### Devops Tools EcoSystem
 ![Tux, the Linux mascot](/Beginner-/IMAGES/devops-tools-ecosystem.png)
-
-
 # **GIT**
-
 **What is meant by Version Control ?**
 Version control is a system that records changes to a file or set of files over time 
 so that you can recall specific versions later.
